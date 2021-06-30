@@ -1,0 +1,5 @@
+export const BUG_ADDED="bug_added"
+export const BUG_REMOVE="bug_removed"
+export const BUG_RESOLVE="bug_resolve"
+export const LOGIN="login"
+export const LOGOUT="logout"
