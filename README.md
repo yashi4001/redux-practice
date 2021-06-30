@@ -1,4 +1,4 @@
-#Basic Bug Tracker using redux and ReactJS
+# Basic Bug Tracker using redux and ReactJS
 
 # Getting Started with Create React App
 
